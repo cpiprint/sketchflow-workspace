@@ -1,5 +1,16 @@
 {
   "viewMode": "split",
   "lastActiveSketchId": "system-map",
-  "updatedAt": "2026-11-26T00:15:31.381Z"
+  "panelSizes": [
+    50,
+    50
+  ],
+  "updatedAt": "2026-11-26T00:15:52.078Z",
+  "history": [
+    {
+      "action": "Saved changes (mode: split)",
+      "user": "Terry Carson",
+      "timestamp": "2026-11-26T00:15:52.078Z"
+    }
+  ]
 }

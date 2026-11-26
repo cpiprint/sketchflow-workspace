@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T00:15:31.381Z",
+  "updatedAt": "2026-11-26T00:15:52.078Z",
   "workspace": {
     "owner": "cpiprint",
     "repo": "sketchflow-workspace",
@@ -12,7 +12,7 @@
       "title": "First Project",
       "visibility": "public",
       "createdAt": "2026-11-26T00:15:31.381Z",
-      "updatedAt": "2026-11-26T00:15:31.381Z",
+      "updatedAt": "2026-11-26T00:15:52.078Z",
       "projectFile": "projects/first-project/project.json",
       "defaultSketch": "projects/first-project/sketches/system-map.excalidraw.json",
       "defaultSketchId": "system-map",
