@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "test1",
+  "title": "test1",
+  "visibility": "public",
+  "createdAt": "2026-11-26T00:16:56.509Z",
+  "updatedAt": "2026-11-26T00:16:56.509Z",
+  "projectFile": "projects/test1/project.json",
+  "defaultSketch": "projects/test1/sketches/system-map.excalidraw.json",
+  "sketches": [
+    {
+      "id": "system-map",
+      "title": "System Map",
+      "file": "projects/test1/sketches/system-map.excalidraw.json"
+    }
+  ],
+  "docs": {
+    "notes": "projects/test1/docs/notes.md"
+  },
+  "sharing": {
+    "enabled": true,
+    "embed": true
+  }
+}
