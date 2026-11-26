@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "workspaceFile": ".sketchflow/workspace.json",
+  "indexes": {
+    "projects": ".sketchflow/indexes/projects.json",
+    "publicProjects": ".sketchflow/indexes/public-projects.json",
+    "search": ".sketchflow/indexes/search-index.json"
+  },
+  "conventions": {
+    "projectRoot": "projects",
+    "sketchExtension": ".excalidraw.json",
+    "exportsDir": "exports",
+    "assetsDir": "assets"
+  }
+}

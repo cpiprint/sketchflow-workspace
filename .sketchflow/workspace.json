@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "name": "sketchflow-workspace",
+  "owner": "cpiprint",
+  "repo": "sketchflow-workspace",
+  "defaultBranch": "main",
+  "visibility": "public",
+  "appUrl": "https://sketchflow.space",
+  "createdAt": "2026-11-26T00:15:31.381Z",
+  "updatedAt": "2026-11-26T00:15:31.381Z",
+  "createdBy": {
+    "stackUserId": "github_6233142",
+    "githubLogin": "cpiprint"
+  }
+}

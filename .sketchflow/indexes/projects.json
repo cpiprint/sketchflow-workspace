@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "id": "first-project",
+      "title": "First Project",
+      "visibility": "public",
+      "projectFile": "projects/first-project/project.json",
+      "defaultSketch": "projects/first-project/sketches/system-map.excalidraw.json",
+      "share": {
+        "enabled": true,
+        "path": "projects/first-project"
+      }
+    }
+  ]
+}
